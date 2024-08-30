@@ -82,5 +82,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or support, please contact:
 
-- **Email:** pratikaute09@example.com
+- **Email:** pratikaute09@gmail.com
 - **GitHub:** [Pratik-Aute](https://github.com/pratikaute09)
