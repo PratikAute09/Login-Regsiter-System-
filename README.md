@@ -26,13 +26,13 @@ This project is a simple registration and login system implemented using PHP, HT
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/pratikaute09/your-repo.git
+    [git clone https://github.com/pratikaute09/](https://github.com/PratikAute09/Login-Regsiter-System-)
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd your-repo
+    cd [your-repo](https://github.com/PratikAute09/Login-Regsiter-System-)
     ```
 
 3. **Set up the database:**
@@ -55,7 +55,7 @@ This project is a simple registration and login system implemented using PHP, HT
 1. **Open your browser and navigate to:**
 
     ```bash
-    http://localhost/your-repo/
+   [ http://localhost/your-repo/](https://github.com/PratikAute09/Login-Regsiter-System-)
     ```
 
 2. **Register a new account:**
