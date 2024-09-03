@@ -74,10 +74,6 @@ This project is a simple registration and login system implemented using PHP, HT
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or support, please contact:
